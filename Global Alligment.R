@@ -8,10 +8,7 @@ pacman::p_load(
 ####- 2-- Set up your working directory ----------####
 #-##################################################-#
 
-setwd("C:/Users/ATL2024_03/OneDrive - Kagoshima University (1)/Maestría/Tesis 2.0/Resultados_Experimentos/Secuencia de 2 bandas MT-2/11301832823/Editing")
-
-
-
+setwd("COPY_YOUR_PATH_HERE")
 
 #-##################################################-#
 ####- 3-- Reading AB1 files-----------------------####
