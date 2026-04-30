@@ -1,3 +1,6 @@
+
+#This script is made to analyze 2 raw sanger sequences. Forward and Reverse included, in total 4 files
+
 ####- 1-- Packages -------------------------------####
 #-##################################################-#
 
